@@ -1,5 +1,8 @@
 # mssutran-rf-id
-smpe waktu===23/03 
-waktu
-cloud
-excel 
+
+#Arduino ide 1.8.5
+
+#-------waktu
+#---------cloud
+#-----------excel >>>>>>serial komunikasi PLDAQ
+#---------penambahan fungsi web>>>>>>>>>>>web viewer via hosting firebase
