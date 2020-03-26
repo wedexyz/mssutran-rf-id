@@ -9,3 +9,4 @@
 #-----------excel >>>>>>serial komunikasi PLDAQ
 <br>
 #---------penambahan fungsi web>>>>>>>>>>>web viewer via hosting firebase
+#---------penambahan lcd esp 8266
